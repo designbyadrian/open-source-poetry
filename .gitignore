@@ -1,0 +1,9 @@
+# image binaries
+*.psd
+*.ai
+
+# video files
+*.mp4
+*.mov
+*.m4v
+*.avi
